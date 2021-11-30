@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="zyb" type="DatabaseScript" editBeforeRun="true">
+    <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/4a7d41d5-091a-48a1-94bd-27ca6ab17f37/console.sql" />
+    <script-mode>FILE</script-mode>
+    <method v="2" />
+  </configuration>
+</component>
